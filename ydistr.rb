@@ -1,7 +1,6 @@
 # Download historical distributions from Yahoo Finance
 
 require 'rubygems'
-require 'nokogiri'
 require 'open-uri'
 require 'sqlite3'
 require 'csv'
